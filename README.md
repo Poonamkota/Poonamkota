@@ -6,9 +6,9 @@
 <p align="center">
   <em>
     This is me <b>Poonam Kota</b>, a <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/AM7NXSAWV4PK"><b> IBM Data Analyst Certified Professional</b></a> trained from <a href="https://npowercanada.ca/"><b>NPower Canada</b></a>. Postgraduate Diploma in Project Management from <a href="https://www.conestogac.on.ca/"> <b> Conestoga College, Canada</b></a>. I am <a href="https://www.credly.com/badges/51eb94a6-08a4-4e5a-b586-797e673dd360/public_url"><b>Microsoft Azure Fundamentals </b></a> certified. <br/>
-    An aspiring <b>Data Analyst,</b>&nbsp; <b>a Business Intelligence expert, Market Researcher</b>&nbsp; and <b> Artificial Intelligence Enthusiast.</b> 
+    An aspiring <b>Data Analyst,</b>&nbsp;<b>Business Intelligence Expert, Market Researcher</b>&nbsp;and <b> Artificial Intelligence Enthusiast.</b> 
   <br><br/>
-  <b><i>"---Always Work Hard and Trust the Process---"</i></b>
+  <b><i>"---Work hard, work smart as it always pays---"</i></b>
 </p>
 
 <h3>Little facts about me 🧑</h3>
@@ -17,7 +17,7 @@
 - 🔭 I’m currently undergoing virtual Data Analyst internship.
 - 👯 I’m looking to collaborate with Health tech and Consulting projects.
 - 💡 Contributing to Open Source Projects is always been a goal to me.
-- ⚡ Fun fact: I love Travelling, learning new skills.
+- ⚡ Fun fact: I love Travelling, Learning new skills.
 <br>
 
 ---
