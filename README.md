@@ -1,11 +1,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Poonam Kota</h1>
 <p align="center">
-  <a href="https://github.com/Poonamkota/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst;Project+Management+Diploma;Data+Analysis%20|%20Python%20|%20SQL%20Power+BI%20Tableau;Aspiring+Learner&center=true&width=500&height=50"></a>
+  <a href="https://github.com/Poonamkota/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst;Project+Management+Diploma;Data+Analysis%20|%20Python%20|%20SQL%20|%20Power+BI%20Tableau;Aspiring+Learner&center=true&width=500&height=50"></a>
 </p>
 
 <p align="center">
   <em>
-    This is me <b>Poonam Kota</b>, a <b> IBM Data Analyst Certified Professional trained from <b>NPower Canada</b>. Postgraduate Diploma in Project Management from <a href="https://www.conestogac.on.ca/"> <b>, Canada</b></a>.
+    This is me <b>Poonam Kota</b>, a <b> IBM Data Analyst Certified Professional trained from <b>NPower Canada</b>. Postgraduate Diploma in Project Management from <a href="https://www.conestogac.on.ca/"> <b>, Conestoga College, Canada</b></a>. I am <b>Microsoft certified Azure Cloud Practitioner </b>
     An aspiring <b>Data Analyst,</b>&nbsp; <b>a Business Intelligence expert, Market Researcher</b>&nbsp; and <b> Artificial Intelligence Enthusiast.</b> 
   <br>
   <b><i>"---Always Work Hard and Trust the Process---"</i></b>
@@ -44,7 +44,6 @@
   🌱 Looking forward to learn:
 </summary>
    <br>
-<code><a href="https://flutter.dev/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></a></code>
 <code><a href="https://cloud.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></a></code>
 <code><a href="https://analytics.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg"></a></code>
 <code><a href="https://www.tensorflow.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></a></code>
