@@ -30,9 +30,9 @@
 <code><a href="https://www.python.org/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a></code>
 <code><a href="https://www.mysql.com/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"></a></code>
 <code><a href="https://jupyter.org/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
-<code><a href="https://www.microsoft.com/en-ca/microsoft-365/excel" target="_blank"><img height="30" src="https://commons.wikimedia.org/wiki/File:Tableau_Software_Logo_Small.png"></a></code>
+<code><a href="https://www.microsoft.com/en-ca/microsoft-365/excel" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg"></a></code>
 <code><a href="https://powerbi.microsoft.com/en-ca/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></a></code>
-<code><a href="https://www.tableau.com/" target="_blank"><img height="40" src=""></a></code>
+<code><a href="https://www.tableau.com/" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Tableau_Software_Logo_Small.png"></a></code>
 <code><a href="https://jira.atlassian.com/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"></a></code>
 <code><a href="https://git-scm.com/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a></code>
 <code><a href="https://colab.research.google.com/" target="_blank"><img height="40" src="https://colab.research.google.com/img/colab_favicon_256px.png"></a></code>
