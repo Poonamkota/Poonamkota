@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Poonam Kota</h1>
 <p align="center">
-  <a href="https://github.com/Poonamkota/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst;Project+Management+Diploma;%20Data+Analysis%20|%20Python%20|%20SQL%20|%20Power+BI%20|%20Tableau;Aspiring+Learner&center=true&width=500&height=50"></a>
+  <a href="https://github.com/Poonamkota/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst;Project+Management+Diploma;Data+Analysis|%20Python|%20SQL|%20Power+BI|%20Tableau;Aspiring+Learner&center=true&width=500&height=50"></a>
 </p>
 
 <p align="center">
